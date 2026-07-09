@@ -7,4 +7,9 @@ public class Calcul{
 		return a+b;
 	}
 	
+	public double produit(double a, double b)
+	{
+		return a*b;
+	}
+	
 }
